@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+ 
+<head>
+    <title>@AkamaiSolution on Twitter</title>
+</head>
+ 
+<body>
+    <h1>Akamai Canvas "Spoofer" by 𝕷𝖚𝖈𝖆#0001</h1>
+    <p>The Array gets logged in the console (F12 -> "Console"). Click the button to start, I hope this saves your time  ;)</p>
+    <p>This is for Akamai Ver 1.54</p>
+    <button onclick="canvas()">Click</button>
+    
+<script>
+    var rVal = 0;
+    var canvasArray = [];
+
+    function canvas() {
+    for(var h = 0; h < 1001; h++){
+        var i = document.createElement("canvas");
+        i.width = 16, i.height = 16;
+        var c = i.getContext("2d");
+        c.font = "6pt Arial", c.fillText(rVal, 1, 12);
+        for (var b = i.toDataURL(), d = 0, k = 0; k < b.length; k++) {
+            d = (d << 5) - d + b.charCodeAt(k), d &= d
+        
+    }
+
+    canvasArray.push(d)
+
+    rVal++
+    }
+    console.log("['" + canvasArray.join("','") + "']")
+}
+
+</script>
+</body>
+ 
+</html>
+
