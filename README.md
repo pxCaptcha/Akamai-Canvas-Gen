@@ -6,6 +6,6 @@ The Array gets logged in the console (F12 -> "Console").
 Just clone or download the project and open the website (AkamaiCanavasSpoofer).
 <br></br>
 Have fun :>
-<br></br>
-<br></br>
+<br>
+<br>
 Follow my twitter to stay updated for new open source projects: https://twitter.com/AkamaiSolution
