@@ -9,3 +9,5 @@ Have fun :>
 <br>
 <br>
 Follow my twitter to stay updated for new open source projects: https://twitter.com/AkamaiSolution
+
+https://discord.gg/K5um925
