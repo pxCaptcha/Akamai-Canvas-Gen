@@ -8,6 +8,6 @@ Just clone or download the project and open the website (AkamaiCanavasSpoofer).
 Have fun :>
 <br>
 <br>
-Follow my twitter to stay updated for new open source projects: https://twitter.com/AkamaiSolution
+Follow my twitter to stay updated for new open source projects: https://twitter.com/footpatrolqueue
 
-https://discord.gg/K5um925
+JOIN THE DISCORD FOR MORE: https://discord.gg/K5um925
