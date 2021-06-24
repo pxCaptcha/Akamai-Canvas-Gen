@@ -5,7 +5,7 @@ This is for Akamai Ver 1.7+. A Simple gen that gens the 1000 different Canvas (r
 The Array gets logged in the console (F12 -> "Console").
 Just clone or download the project and open the website (AkamaiCanavasSpoofer).
 <br></br>
-Have fun :>
+Have fun :)
 <br>
 <br>
 Follow my twitter to stay updated for new open source projects: https://twitter.com/pxCaptcha
