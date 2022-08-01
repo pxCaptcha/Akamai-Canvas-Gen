@@ -10,4 +10,4 @@ Have fun :)
 <br>
 Follow my twitter to stay updated for new open source projects: https://twitter.com/pxCaptcha
 
-JOIN THE DISCORD FOR MORE: https://discord.gg/K5um925
+JOIN THE DISCORD FOR MORE: https://discord.gg/parallaxapis
