@@ -10,4 +10,4 @@ Have fun :)
 <br>
 Follow my twitter to stay updated for new open source projects: https://twitter.com/pxCaptcha
 
-JOIN THE DISCORD FOR MORE: https://discord.gg/parallaxapis
+JOIN THE DISCORD IF YOURE IN NEED OF A PERIMETERX OR OTHER ANTI BOT APIS: https://discord.gg/parallaxapis
